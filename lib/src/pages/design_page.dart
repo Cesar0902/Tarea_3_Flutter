@@ -13,7 +13,7 @@ class DesignPageState extends State<DesignPage> {
         title: TextField(
           decoration: const InputDecoration(
             hintText: 'Nombre nuevo',
-            border: 
+            border: InputBorder.none,
           ),
         ),
       ),
